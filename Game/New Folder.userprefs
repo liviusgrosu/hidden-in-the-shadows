@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Powerup Scripts\PickingUpPowerups\PickingUpPowerups3.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Powerup Scripts\MonsterMapDark.cs" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\Powerup Scripts\PickingUpPowerups\PickingUpPowerups3.cs" Line="34" Column="24" />
+      <File FileName="Assets\Scripts\Powerup Scripts\PickingUpPowerups\PickingUpPowerups4.cs" Line="59" Column="19" />
+      <File FileName="Assets\Scripts\Powerup Scripts\PickingUpPowerups\PickingUpPowerups.cs" Line="59" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
